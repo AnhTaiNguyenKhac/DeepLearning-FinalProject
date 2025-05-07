@@ -11,6 +11,6 @@ nhiên. Sau đó thực hiện pretrain fineturning với một trong hai mô h�
 - Triển khai mô hình Transformer cho bài toán dịch thuật tiếng anh
 Triển khai mô hình Transformer để thực hiện dịch thuật từ tiếng Anh sang
 tiếng Việt. Xây dựng và huấn luyện mô hình Transformer, bao gồm cả encoder và decoder, sử dụng một bộ dữ liệu dịch thuật song ngữ.
-Sau khi mô hình được huấn luyện, bạn sẽ đánh giá hiệu suất của nó dựa
+Sau khi mô hình được huấn luyện, đánh giá hiệu suất của nó dựa
 trên các chỉ số đánh giá chất lượng dịch như BLEU score, đồng thời phân
 tích các lỗi phổ biến và đề xuất cách cải thiện mô hình.
